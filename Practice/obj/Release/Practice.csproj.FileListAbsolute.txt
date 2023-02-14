@@ -1,0 +1,16 @@
+C:\Users\ARTEM\source\repos\Practice\bin\Release\Practice.exe.config
+C:\Users\ARTEM\source\repos\Practice\bin\Release\Practice.exe
+C:\Users\ARTEM\source\repos\Practice\bin\Release\Practice.pdb
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.AddPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.AddTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.MinusPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.MinusTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.Form1.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.Properties.Resources.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.SearchPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.SearchTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.csproj.GenerateResource.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.exe
+C:\Users\ARTEM\source\repos\Practice\obj\Release\Practice.pdb

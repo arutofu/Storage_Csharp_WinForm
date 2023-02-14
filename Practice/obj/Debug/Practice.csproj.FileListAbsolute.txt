@@ -1,0 +1,62 @@
+C:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.exe.config
+C:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.exe
+C:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.pdb
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.exe
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.pdb
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.AddPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.AddTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.DoOtchetPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.DoOtchetTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.MinusPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.MinusTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.Form1.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.PostOtchet.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.SearchPost.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.SearchTovar.resources
+C:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.TovarOtchet.resources
+E:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.exe.config
+E:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.exe
+E:\Users\ARTEM\source\repos\Practice\bin\Debug\Practice.pdb
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.AddPost.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.AddTovar.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.DoOtchetPost.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.DoOtchetTovar.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.MinusPost.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.MinusTovar.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.Form1.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.PostOtchet.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.Properties.Resources.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.SearchPost.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.SearchTovar.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Main.TovarOtchet.resources
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.exe
+E:\Users\ARTEM\source\repos\Practice\obj\Debug\Practice.pdb
+C:\Users\F_art\source\repos\4 Университет\Practice\bin\Debug\Practice.exe.config
+C:\Users\F_art\source\repos\4 Университет\Practice\bin\Debug\Practice.exe
+C:\Users\F_art\source\repos\4 Университет\Practice\bin\Debug\Practice.pdb
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.AddPost.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.AddTovar.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.DoOtchetPost.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.DoOtchetTovar.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.MinusPost.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.MinusTovar.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.Form1.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.PostOtchet.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.SearchPost.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.SearchTovar.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Main.TovarOtchet.resources
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.exe
+C:\Users\F_art\source\repos\4 Университет\Practice\obj\Debug\Practice.pdb
